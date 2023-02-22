@@ -1,0 +1,9 @@
+../source/my_utilities.c:16:6:delay	24	static
+../source/my_utilities.c:27:6:led_init	8	static
+../source/my_utilities.c:46:6:touch_init	8	static
+../source/my_utilities.c:74:6:color_on	16	static
+../source/my_utilities.c:98:6:led_off	8	static
+../source/my_utilities.c:108:5:touch_scan_10	16	static
+../source/my_utilities.c:124:6:init_sequence	16	static
+../source/my_utilities.c:154:6:main_led_pattern	16	static
+../source/my_utilities.c:226:6:solid_led_pattern	24	static
